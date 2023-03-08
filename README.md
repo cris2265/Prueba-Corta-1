@@ -3,7 +3,7 @@
 
 #Prueba1
 
-#Información
+##Información
 
 |  Nombre: | Crishtian Enrique Hernández Paniagua  |
 | ------------ | ------------ |

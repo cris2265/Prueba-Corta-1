@@ -5,4 +5,7 @@
 
 #Información
 
-|  Nomre:  |  Cristhian Enrique Hernández Paniagua |
+|  Nombre: | Crishtian Enrique Hernández Paniagua  |
+| ------------ | ------------ |
+|  Colegio: | Colegio Santa Catalina Laboure  |
+|  Mi trabajo | |
